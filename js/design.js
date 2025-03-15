@@ -1,6 +1,6 @@
 /* Certificate Section */
 
-var totalSlides = 6;
+var totalSlides = 7;
 var slideIndex = 1;
 buildSlideshow();
 showSlides(slideIndex);
